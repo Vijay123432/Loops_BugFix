@@ -5,8 +5,8 @@ int docount=7;
             System.out.println("Do While "+docount);
         docount--;
         }
-        while(docount>=15);
+        while(docount>=1);
     }
   // Print 7 to 15 Number at doCount
 }
-}
+
